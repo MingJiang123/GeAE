@@ -1,4 +1,4 @@
-# GeAE: GAE-embedded autoencoder based causal representation for robust domain adaptation
+# Learning causal representations based on a GAE embedded autoencoder
 ## Introduction
 We proposed a graph-autoencoder-embedded autoencoder (GeAE) to learn invariant representations across domains for robust domain adaption.
 ## Usage 
